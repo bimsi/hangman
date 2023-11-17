@@ -1,0 +1,8 @@
+Extract the hangman file
+
+*Your PC must have Python installed.
+
+Run the file in command prompt -> python hangman.py
+
+*Guess the word under 7 lives.
+*Good Luck!
